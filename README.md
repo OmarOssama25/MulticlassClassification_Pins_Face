@@ -14,7 +14,7 @@ This project implements a multi-class classification system using Artificial Neu
 ### Setup
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone (https://github.com/OmarOssama25/MulticlassClassification_Pins_Face)
 cd pins-face-classification
 ```
 
